@@ -1,5 +1,9 @@
 # SQL_Music_Store_Analysis
 
+<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/dc1e0094-d00f-4c6b-a546-04ba9884ca99">
+
+
+
 ## Objective:
 
 The objective of this project is to analyze the music store's database to derive insights about employee hierarchy, customer behavior, sales distribution, and artist popularity. The analysis aims to identify key metrics that can guide business decisions such as targeted promotions, artist engagements, and customer rewards.
